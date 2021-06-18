@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+
 # simplecrud
-=======
+
 Saving files here now
 okay
->>>>>>> master
+
+this is a new commit
