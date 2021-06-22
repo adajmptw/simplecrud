@@ -1,0 +1,19 @@
+{
+  "name": "simplecrud",
+  "version": "1.0.0",
+  "description": "Saving files here now\r okay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adajmptw/simplecrud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adajmptw/simplecrud/issues"
+  },
+  "homepage": "https://github.com/adajmptw/simplecrud#readme"
+}
